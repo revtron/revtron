@@ -7,8 +7,7 @@ I'm a passionate front-end developer, finding creative ways to solve real-life p
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=revtron&icon=9&color=0)](https://visitcount.itsvg.in)
