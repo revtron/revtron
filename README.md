@@ -3,7 +3,11 @@ I'm a passionate front-end developer, finding creative ways to solve real-life p
 
 
 
-https://github.com/user-attachments/assets/a903e670-19fa-4d32-bb02-867ef9e45911
+<video loop width="500" height="500" muted autoplay>
+  <source src="https://github.com/user-attachments/assets/a903e670-19fa-4d32-bb02-867ef9e45911" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 
