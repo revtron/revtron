@@ -4,7 +4,7 @@ I'm a passionate front-end developer, finding creative ways to solve real-life p
 
 
 <div class="image-container" style="background-color: transparent;">
-  <img src="https://github.com/user-attachments/assets/43e74ea7-cc47-4c48-bd0f-581165d81ee3" alt="Add a heading">
+  <img src="https://github.com/user-attachments/assets/43e74ea7-cc47-4c48-bd0f-581165d81ee3" alt="Add a heading" width="400" height="300">
 </div>
 
 
