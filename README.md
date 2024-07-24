@@ -2,7 +2,10 @@
 I'm a passionate front-end developer, finding creative ways to solve real-life problems.
 
 
-<img src="https://github.com/user-attachments/assets/9217fc60-fa82-4c20-88ff-98dbea19613f" width="400" height="300" alt="Add a heading">
+<div class="image-container" style="background-color: transparent;">
+  <img src="https://github.com/user-attachments/assets/9217fc60-fa82-4c20-88ff-98dbea19613f" width="400" height="300" alt="Add a heading">
+</div>
+
 
 
 
