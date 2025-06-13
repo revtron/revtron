@@ -1,9 +1,8 @@
-<div class="image-container" style="background-color: transparent;">
-  <img src="https://github.com/user-attachments/assets/43e74ea7-cc47-4c48-bd0f-581165d81ee3" alt="Add a heading" width="400" height="300">
-</div>
-
 <h1 align="center">Hi 👋, I'm Sohail Ahmed B</h1>
 <h3 align="center">A passionate and driven DevOps engineer, continuously learning and building reliable CI/CD pipelines and infrastructure using tools like Docker, Kubernetes, and Terraform.</h3>
+<div class="image-container" align="center" style="background-color: transparent;">
+  <img src="https://github.com/user-attachments/assets/43e74ea7-cc47-4c48-bd0f-581165d81ee3" alt="Add a heading" width="400" height="300">
+</div>
 
 - 🌱 I’m currently learning **Python for cloud deployment**
 
